@@ -9,7 +9,7 @@ package chapter7_oop2;
  *
  */
 class CastingTest1 {
-	public static void main(String[] args[]) {
+	public static void main(String[] args) {
 		Car car = null;
 		FireEngine fe = new FireEngine();
 		FireEngine fe2 = null;
